@@ -1,0 +1,63 @@
+Press the Attack;Total Damage;Bonus Damage;Expose Damage
+Lethal Tempo;Total Active Time (mins);Total Active Time secs;
+Fleet Footwork;Total Healing;;
+Conqueror;Total Healing;;
+Overheal;Total Shielding;;
+Triumph;Total Health Restored;Total Bonus Gold Granted;
+Presence of Mind;Resource Restored;;
+Legend Alacrity;Time Completed (mins);Time Completed secs;
+Legend Tenacity;Time Completed (mins);Time Completed secs;
+Legend Bloodline;Time Completed (mins);Time Completed secs;
+Coup De Grace;Total Bonus Damage;;
+Cut Down;Total Bonus Damage;;
+Last Stand;Total Bonus Damage;;
+Electrocute;Total Damage Dealt;;
+Predator;Total Damage to Champions;;
+Dark Harvest;Total Damage Dealt;Total Souls Harvested;
+Hail Of Blades;Attacks made with extra attack speed;Percentage of Hail Attacks Landed;
+Cheap Shot;Total Damage;;
+Taste of Blood;Total Healing;;
+Sudden Impact;Bonus Damage;;
+Zombie Ward;Wards Spawned;Adaptive Force Gained;
+Ghost Poro;Enemies Spotted;Bonus Adaptive Stat;Ghost Poros Spawned
+Eyeball Collection;Total Bonus AD/AP;;
+Ravenous Hunter;Total Healing;Total Stacks;
+Ingenious Hunter;Total Item Activations (Incl Trinkets);Total Stacks;
+Relentless Hunter;Move Speed Increase;Total Stakcs;
+Ultimate Hunter;Total Stacks;;
+Summon Aery;Damage Dealt;Damage Shielded;
+Arcane Comet;Total Damage Dealt;;
+Phase Rush;Total Activations;;
+Nullifying Orb;Total shield granted;;
+Manaflow Band;Total Bonus Mana;Total mana restored;
+Nimbus Cloak;Times Activated;;
+Transcendence;Seconds Refunded;;
+Celerity;Extra Distance Travelled;;
+Absolute Focus;Total time active (mins);Total time active secs;
+Scorch;Total Bonus Damage;;
+Waterwalking;Total Time Active;;
+Gathering Storm;Total Bonus AD/AP;;
+Grasp of the Undying;Total Damage;Total Healing;
+Aftershock;Total Damage Dealt;;
+Guardian;Total Shield Strength;;
+Demolish;Total Bonus Damage;;
+Font of Life;Total Ally Healing;;
+Shield Bash;Total Damage;;
+Conditioning;Percent of game active;Total Bonus Armor;Total Bonus Magic Resist
+Second Wind;Total Healing;;
+Bone Plating;Total Damage Blocked;;
+Overgrowth;Total Bonus Max Health;;
+Revitalize;Bonus Healing;Bonus Shielding;
+Unflinching;Seconds in combat at max tenacity granted;;
+Glacial Augment;Bonus Time Enemies Slowed;;
+Unsealed Spellbook;Summoner Spells swapped;;
+Omnistone;Keystones Used;Damage Dealt;Positive Buffs Granted
+Hextech Flashtraption;Times Hexflashed;;
+Magical Footwear;Boots Arrival Time (mins);Boots Arrival Time secs1;Boots Arrival Time secs2
+Perfect Timing;No stats;;
+Futures Market;Future Purchases;;
+Minion Dematerializer;Bonus Minion Damage Dealt;;
+Biscuit Delivery;Biscuits Received;;
+Cosmic Insight;No stats;;
+Approach Velocity;Time Spent Hasted (Seconds);;
+Time Warp Tonic;Time Spent Hasted (Seconds);Total Immediate Health Restored;Total Immediate Mana Restored
